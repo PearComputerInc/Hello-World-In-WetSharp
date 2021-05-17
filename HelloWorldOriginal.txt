@@ -1,4 +1,4 @@
-﻿*This Is A Simple Program.*
+*This Is A Simple Program.*
 /tprint("Hello, iOS/macOS!")/
 /tprint.programexecute.text/
 /tprint=var.showvartext/
